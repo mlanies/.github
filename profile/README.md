@@ -1,15 +1,15 @@
-**Максим Ланиес** — инженер и исследователь в области современных сетевых технологий.
+**Maksim Lanies** is an engineer and researcher in modern networking technologies.
 
-Фокус: **QUIC/MASQUE**, алгоритмы управления перегрузками (**BBRv2/BBRv3**), **ML-маршрутизация**, архитектуры **без единой точки отказа**, криптография будущего и **устойчивые публичные сети**.
+Focus areas include **QUIC/MASQUE**, congestion control algorithms (**BBRv2/BBRv3**), **ML-based routing**, architectures **without a single point of failure**, next-generation cryptography, and **resilient public networks**.
 
-Основатель **CloudBridge Research** — центра разработки новых протоколов, открытых инструментов и образовательных программ.  
+Founder of **CloudBridge Research** — a center for developing new protocols, open-source tools, and educational programs.
 
-Сайт: [cloudbridge-research.ru](https://cloudbridge-research.ru)  
+Website: [cloudbridge-research.ru](https://cloudbridge-research.ru)  
 GitHub: [github.com/cloudbridge-research](https://github.com/cloudbridge-research)
 
-Также являюсь основателем **2GC CloudBridge Global Network** — глобальной сети нового поколения для ускорения и стабилизации трафика.  
+Also the founder of **2GC CloudBridge Global Network** — a next-generation global network for traffic acceleration and stabilization.
 
-Сайт: [2gc.ru](https://2gc.ru)  
+Website: [2gc.ru](https://2gc.ru)  
 GitHub: [github.com/twogc](https://github.com/twogc)
 
-Работаю над проектами, направленными на повышение устойчивости интернета и развитие независимых технологических экосистем.
+I work on projects aimed at increasing Internet resilience and fostering independent technological ecosystems.
